@@ -4,7 +4,7 @@ Project 'Build a Celestial Bodies Database' for FreeCodeCamp [Relational Databas
 
 In this project we created DB for universe information.
 
-We have the following tables:
+We have following tables:
 * galaxy
 * star
 * planet
