@@ -1,12 +1,13 @@
-# freeCodeCampUniverse
+# sql-bash-fcc
 
-Project 'Build a Celestial Bodies Database' for FreeCodeCamp [Relational Database course](https://www.freecodecamp.org/learn/relational-database).
+Projects from [FreeCodeCamp relational database course](https://www.freecodecamp.org/learn/relational-database/) 
 
-In this project we created DB for universe information.
-
-We have following tables:
-* galaxy
-* star
-* planet
-* moon
-* galaxy_types
+1. First project: 'Build a Celestial Bodies Database'
+    In this project we created DB for universe information.
+  
+    We have following tables:
+    * galaxy
+    * star
+    * planet
+    * moon
+    * galaxy_types
