@@ -3,6 +3,7 @@
 Projects from [FreeCodeCamp relational database course](https://www.freecodecamp.org/learn/relational-database/) 
 
 1. First project: 'Build a Celestial Bodies Database'
+
    In this project we created DB for universe information.
 
    We have following tables:
@@ -13,6 +14,7 @@ Projects from [FreeCodeCamp relational database course](https://www.freecodecamp
    * galaxy_types
 
 3. Second project: 'Build a World Cup Database'
+
    In this project we created DB for world cup games
 
    We have following tables:
