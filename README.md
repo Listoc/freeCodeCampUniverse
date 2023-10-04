@@ -24,6 +24,7 @@ Projects from [FreeCodeCamp relational database course](https://www.freecodecamp
    Also we created 2 bash scripts:
    * insert_data.sh - insert data to our DB from .csv file
    * queries.sh - print result of some SELECT queries to our DB ('Year and team name of all the champions' as example)
+  
 3. Third project: 'Build a Salon Appointment Scheduler'
 
    In this project we created DB for salon
@@ -34,3 +35,14 @@ Projects from [FreeCodeCamp relational database course](https://www.freecodecamp
    * services
   
    Also we created an interactive Bash program (salon.sh) that uses PostgreSQL to track the customers and appointments for our salon.
+
+5. Fourth project: 'Build a Periodic Table Database'
+
+   In this project we fixed DB for periodic table
+
+   We have following tables:
+   * element
+   * properties
+   * type
+  
+   Also we created Bash script (element.sh) to get information about chemical elements from a periodic table database.
