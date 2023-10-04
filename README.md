@@ -1,4 +1,4 @@
-# sql-bash-fcc
+# sql-bash-freeCodeCamp
 
 Projects from [FreeCodeCamp relational database course](https://www.freecodecamp.org/learn/relational-database/) 
 
